@@ -1,0 +1,28 @@
+{
+  "name": "@andreyvolokitin/parcel-transformer-js-handlebars",
+  "version": "0.0.1",
+  "description": "Transform handlebars templates to JS files, exporting a template as a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreyvolokitin/parcel-transformer-handlebars.git"
+  },
+  "engines": {
+    "parcel": ">=2.0.0-beta.3.1"
+  },
+  "dependencies": {
+  },
+  "author": "Andrey Volokitin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreyvolokitin/parcel-transformer-js-handlebars/issues"
+  },
+  "homepage": "https://github.com/andreyvolokitin/parcel-transformer-js-handlebars#readme",
+  "keywords": [
+    "parcel",
+    "handlebars"
+  ]
+}
